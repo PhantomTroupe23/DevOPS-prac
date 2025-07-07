@@ -1,0 +1,5 @@
+build
+dest
+env
+_pycache_
+*.egg*
